@@ -18,3 +18,5 @@ A mensagem será exibida no console!
 # preview
 
 ![image](https://user-images.githubusercontent.com/86435735/182974638-db6d3107-6b15-4da6-9962-217003b2b1f2.png)
+
+obs: o projeto não foi upado com uma imagem predefinida, será nacessário adicionar uma do seu computador!
